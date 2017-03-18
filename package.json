@@ -1,0 +1,16 @@
+{
+  "name": "gw2-craft-scrubber",
+  "version": "1.0.0",
+  "description": "for scrubbing the GW2 api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Reitz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mssql": "^3.3.0",
+    "request": "^2.80.0"
+  }
+}
